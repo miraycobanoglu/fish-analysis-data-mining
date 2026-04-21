@@ -53,6 +53,7 @@ Veri setinin yapısını daha iyi anlamak için PCA uygulanmıştır:
 Boyut indirgeme yapılmıştır (6 → 2)
 Türlerin dağılımı görselleştirilmiştir
 Bazı sınıfların örtüştüğü görülmüştür
+
 🧪 Kullanılan Teknolojiler
 Python
 Pandas
@@ -60,11 +61,13 @@ NumPy
 Matplotlib
 Seaborn
 Scikit-learn
+
 🚀 Kurulum ve Çalıştırma
 git clone https://github.com/kullaniciadi/proje-adi.git
 cd proje-adi
 pip install -r requirements.txt
 python main.py
+
 📁 Proje Yapısı
 ├── fish.csv
 ├── main.py
